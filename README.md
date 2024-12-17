@@ -1,1 +1,1 @@
-Scrips python para testar meus conhecimentos em git.
+Scripts python para testar meus conhecimentos em git.
