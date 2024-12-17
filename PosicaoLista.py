@@ -12,5 +12,5 @@ def posicaoLista():
     
 lista_posicionada = posicaoLista()
 for i, j in enumerate(lista_posicionada):
-    print(f"Index[{i}], Valor: {j}")
+    print(f"Posição[{i}], Valor: {j}")
 
